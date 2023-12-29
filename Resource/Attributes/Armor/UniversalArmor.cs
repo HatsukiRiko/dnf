@@ -1,5 +1,5 @@
 namespace Resource.Attributes.Armor;
 
-public class UniversalArmor : BaseAttributes
+public class  UniversalArmor : BaseAttributes
 {
 }
